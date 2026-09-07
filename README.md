@@ -218,6 +218,5 @@ export default Result;
 
 ## Result:
 
-RESULT:
 
 Thus, the BMI Calculator was successfully created using React, allowing users to enter their height and weight and calculate their BMI with the corresponding category.
